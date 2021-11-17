@@ -4,3 +4,5 @@ O que vou aprender na trybe:
 - css
 - js
 - html
+- React 
+_ Angular
