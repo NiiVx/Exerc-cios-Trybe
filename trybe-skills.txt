@@ -1,8 +1,0 @@
-O que vou aprender na trybe:
-- unix	
-- bash
-- css
-- js
-- html
-- React 
-_ Angular
